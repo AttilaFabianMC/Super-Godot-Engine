@@ -1,2 +1,2 @@
 # Super-Godot-Engine
-A super mario engine for those who started using godot very easy to use and everything is simplefied (THE ENGINE IS IN W.I.P)
+A super mario bros engine for those who started using godot very easy to use and everything is simplefied (THE ENGINE IS IN W.I.P)
